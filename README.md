@@ -5,6 +5,8 @@ Practice space for using the Github Workflow.
 
 Participants:
 Ben Coleman
+Anna Huang
+Nate Garay
 
 
 ## Setup
